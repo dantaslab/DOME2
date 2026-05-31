@@ -35,50 +35,95 @@ SRA Toolkit (v3.0.0)
 R package DADA2 (v1.34.0)
 
 SILVA database (v138.1)
+
 JupyterLab (v4.4.3)
+
 pandas (v2.3.0)
+
 NumPy (v2.2.6)
+
 Python (v3.10.18)
+
 seaborn (v0.13.2)
+
 scikit-bio (v0.7.0)
+
 scipy (v1.15.2)
+
 R package ape (v5.8-1)
+
 R package broom (v1.0.9)
+
 R package cowplot (v1.2.0)
+
 R package dplyr (v1.1.4)
+
 R package ggdist (v3.3.3)
+
 R package ggh4x (v0.3.1)
+
 R package ggplot2 (v3.5.2)
+
 R package ggpubr (0.6.1)
+
 R package igraph (v2.1.4)
+
 R package labdsv (v2.1-2)
+
 R package lme4 (v1.1-37)
+
 R package lsmeans (v2.30-2)
+
 R package lubridate (v1.9.4)
+
 R package purrr (v1.1.0)
+
 R package readr (v2.1.5)
+
 R package reshape2 (v1.4.4)
+
 R package scales (v1.4.0)
+
 R package shape (v1.4.6.1)
+
 R package stringr (v1.5.2)
+
 R package tidyr (v1.3.1)
+
 R package tidyselect (v1.2.1)
+
 R package vegan (v2.7-1)
+
 R package decontam (v1.26.0, threshold = 0.5)
+
 R package phyloseq (v1.50.0)
+
 R package comparegroups (v4.9.1)
+
 R package ggsci (v3.2.0)
+
 R package glue (1.8.0)
+
 R package viridislite (v.0.4.2)
+
 R package viridis (v0.6.5)
+
 R package svglite (v2.1.3)
+
 R package DESeq2 (v1.48.1)
+
 featureCounts(v2.0.2)
+
 bowtie2(v2.4.2)
+
 EggNOG(v2.1.12,webserver)
+
 mzCloud
+
 R packages from jrtools(https://github.com/jir88/jrtools)
+
 R package GGtree(v3.16.3)
+
 R package gcplyr (v1.11.0)
 
 

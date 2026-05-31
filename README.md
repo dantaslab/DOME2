@@ -11,17 +11,29 @@ Version numbers are included for bash scripts. All were run in the High Throughp
 ### Scripts: software versions used
 
 run_dbcan (v5.1.2; CAZyme_annotation --mode prok)
+
 fastp (v0.23.4)
+
 SeqKit2 (v2.10.0; sample)
+
 Unicycler (v0.5.1)
+
 CheckM (v1.2.3; --reduced_tree)
+
 Quast (v5.2.0)
+
 FastANI (v1.34)
+
 GTDB-Tk (v2.4.1, GTDB R220; classify_wf, de_novo_wf --skip_gtdb_refs)
+
 ncbi-datasets (v18.3.0; summary genome accession --as-json-lines)
+
 ncbi-dataformat (v18.3.0; tsv genome --fields organism-name,accession,assmstats-total-sequence-len)
+
 SRA Toolkit (v3.0.0)
+
 R package DADA2 (v1.34.0)
+
 SILVA database (v138.1)
 JupyterLab (v4.4.3)
 pandas (v2.3.0)

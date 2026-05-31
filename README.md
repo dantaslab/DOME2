@@ -5,7 +5,9 @@ Code and data used to generate figures & data tables associated with the DOME2 (
 
 Scripts used by C. Miller and S. Paruthiyil for analysis and visualization 
 
-Version numbers are included for bash scripts. All were run in the High Throughput Computing Facility computing environment at the Center for Genome Sciences and WashU Medicine; installation time is not applicable. R code runs successfully on R versions 4.4.2 and later from Mac OS 14.5 and later and relevant packages were installed through R itself with installation times less than 2 minutes.
+Version numbers are included for bash scripts. All bash scripts were run in the High Throughput Computing Facility computing environment at the Center for Genome Sciences and WashU Medicine; installation time is not applicable and because code was run on supercomputers, we do not know the estimated time on a "normal" desktop. R code runs successfully on R versions 4.4.2 and later from Mac OS 14.5 and later and relevant packages were installed through R itself with installation times less than 2 minutes.
+
+Run times are trivial (< 10 minutes) for R scripts.
 
 
 ### Scripts: software versions used

@@ -4,3 +4,4 @@
 **/*.yaml
 **/.vscode
 **/.ipynb_checkpoints
+.Rproj.user
